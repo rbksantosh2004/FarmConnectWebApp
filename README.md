@@ -78,15 +78,13 @@ Kindly please check the screenshots in my journal attached link https://journali
    
 **2.  Install dependencies:**
 
-bash
-
-copy below commands 
+```bash
 cd farmconnect
 npm install
 Set environment variables (Razorpay keys, Mongo URI, etc.)
 
 3. **Run the app:**
 
-bash
-Copy below command
+```bash
+
 expo start
